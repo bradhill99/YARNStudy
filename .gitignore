@@ -1,7 +1,8 @@
 .classpath
 .project
 .settings
-build
-target
-test
-brad
+/build
+/target
+/test
+/brad
+/bin
